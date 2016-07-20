@@ -1,0 +1,42 @@
+h1{
+  color: 	#00BFFF;
+   border:5px solid black;
+   background-color: grey;
+   padding-left: 10px;
+ }
+
+  body{
+    font-family:"Pacifico", cursive;
+    background-image: url(http://feelgrafix.com/data_images/out/28/974519-backgrounds.jpg);
+  background-size: cover;
+  }
+
+  div{
+    width:780px;
+    margin:auto;
+    border:5px solid #174460;
+    border-radius:10px;
+    box-shadow:2px 4px 3px black;
+    background-color:#FFFFFF;
+    padding:40px;
+  }
+
+td{
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+
+h2{
+  color: 	#00BFFF;
+    border:3px solid black;
+  padding-left: 10px;
+
+}
+
+.strong {
+  font-weight: bold;
+}
+
+.up{
+  vertical-align: top;
+}
